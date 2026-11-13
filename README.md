@@ -1,12 +1,6 @@
 <div align="center">
 
-<pre>
-╔════════════════ ♱ ════════════════╗
-║                                   ║
-║              (¬‿¬) ♡              ║
-║                                   ║
-╚════════════════ ♱ ════════════════╝
-</pre>
+<img src="assets/gothic-border.svg" alt="" width="660">
 
 offensive security · security research · osint<br>
 privacy · open source · cryptography · blockchain<br>
@@ -35,6 +29,6 @@ Entends, ma chère, entends la douce Nuit qui marche.
 
 — Charles Baudelaire, [*Les Fleurs du mal* (1868)](https://fr.wikisource.org/wiki/Les_Fleurs_du_mal/1868/Recueillement)
 
-♱
+<img src="assets/gothic-border.svg" alt="" width="660">
 
 </div>
